@@ -1,0 +1,7 @@
+#1: SUMA DE DOS NÚMEROS
+1.	Inicio 
+2.	Declarar variables (x, y, )
+3.	Dar valor a las variables (x=7, y= 3)
+4.	Sumar variables (x+y=z) (7 + 3= 10)
+5.	Imprimir resultado (z=10)
+6.	Fin

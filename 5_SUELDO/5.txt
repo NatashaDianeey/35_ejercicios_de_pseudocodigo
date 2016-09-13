@@ -1,0 +1,9 @@
+Ejercicio #5: SUELDO
+Se requiere determinar el sueldo semanal de un trabajador  con base en las horas que trabaja y el pago por hora que recibe.
+
+
+1.Inicio
+2.Declarar variables (horas, dias pago x hora)
+3.a,b,c
+4. (a*b*c=d)(8*5*10=400)
+5.(d=400)

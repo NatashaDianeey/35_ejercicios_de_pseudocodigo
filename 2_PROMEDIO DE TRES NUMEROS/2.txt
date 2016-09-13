@@ -1,0 +1,8 @@
+#2: PROMEDIO DE 3 NÚMEROS
+1.	Inicio
+2.	Declarar variables (a, b, c)
+3.	Dar valores a las variables (a=3, b=5, c=7)
+4.	Sumar variables ( a + b + c = d ) ( 3 + 5 + 7 = 15 ) 
+5.	Resultado de la suma, promediar entre 3  (d= /3 )
+6.	Imprimir resultado ( d = 5)
+7.	Fin

@@ -1,0 +1,10 @@
+
+#3: CÁLCULO AREA DE UN TRIÁNGULO
+1.	Inicio
+2.	Declarar variables (b, h)
+3.	Dar valores a las variables (b= 5, h=4)
+4.	Multiplicar variables (b*h=z) (5 * 4= 20)
+5.	Resultado de la multiplicación, entre 2 (a=/2)
+6.	Imprimir resultado ( a = 10)
+7.	Fin
+

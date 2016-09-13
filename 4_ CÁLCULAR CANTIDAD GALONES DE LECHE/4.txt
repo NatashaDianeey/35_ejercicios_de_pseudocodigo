@@ -1,0 +1,6 @@
+4#: CÁLCULAR CANTIDAD GALONES DE LECHE
+1.	Inicio
+2.	Declarar número de litros (300 litros )
+3.	Dividir numero litros entre la cantidad a la que equivale un galón (300/3.785)
+4.	Resultado es igual al número de galones ( 79.26023778)
+5.	Fin
